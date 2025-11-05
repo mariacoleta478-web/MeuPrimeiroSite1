@@ -1,0 +1,26 @@
+    body{
+        background-color: #60EB86;
+    }
+
+    h1{
+    color: hwb(0 0% 100%);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 100px;    
+    background-color: #60EBE4;
+    }
+
+    .capa{
+     width: 100vw;
+    height: 700px;
+    }
+
+    .foto{
+     width: 100%;
+    height: 100%;
+    }
+
+
+    .texto{
+        text-align: center;
+
+    }
